@@ -1,3 +1,8 @@
-===================================================
-Welcome to the documentation of cloud-trace-service
-===================================================
+Cloud Trace Service
+===================
+
+.. directive_wrapper::
+   :class: container-sbv
+
+   .. service_card::
+      :service_type: cts
