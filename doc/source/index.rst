@@ -7,6 +7,7 @@ Cloud Trace Service (CTS) provides operation records for cloud service resources
    :class: container-sbv
 
    .. service_card::
+      :environment: internal
       :service_type: cts
       :umn: This document describes basic concepts, functions, key terms, and FAQs of CTSs and provides instructions for applying and using CTSs.
       :api-ref: This document describes application programming interfaces (APIs) of Cloud Trace Service (CTS) and provides API parameter description and example values.
