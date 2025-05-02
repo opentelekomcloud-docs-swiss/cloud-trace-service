@@ -38,6 +38,7 @@ otcdocs_doc_type = 'api-ref'
 otcdocs_service_category = 'md'
 otcdocs_service_title = 'Cloud Trace Service'
 otcdocs_service_type = 'cts'
+otcdocs_cloud_environment = 'swiss'
 otcdocs_search_environment = 'hc_swiss'
 otcdocs_search_index = 'search_index_swiss'
 otcdocs_search_url = "https://opensearch.eco.tsi-dev.otc-service.com/"
@@ -112,7 +113,7 @@ html_copy_source = False
 latex_documents = [
     ('index',
      'cts-api-ref.tex',
-     u'Cloud Trace Service - API Reference',
+    u'Cloud Trace Service - API Reference',
      u'OpenTelekomCloud', 'manual'),
 ]
 
