@@ -5,4 +5,4 @@
 Must I Use an IAM User (Sub Account) to Configure Transfer on CTS and Perform Operations on an OBS Bucket?
 ==========================================================================================================
 
-No. You only need to ensure that you have the permissions for OBS buckets.
+No. You only need to ensure that you have the permissions to perform operations on OBS buckets.
