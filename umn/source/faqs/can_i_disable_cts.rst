@@ -9,10 +9,6 @@ You can use the basic functions of CTS for free, including enabling a tracker, t
 
 If you do need to disable CTS, you can do it in the following two ways:
 
--  Delete or disable existing trackers. (The **system** tracker created by CTS can only be disabled and cannot be deleted.) No traces will be generated.
+-  You can delete or disable a tracker. After a tracker is deleted or disabled, traces can still be reported.
 
 -  Delete the CTS agency from the IAM agency list. CTS will become unavailable.
-
-   |image1|
-
-.. |image1| image:: /_static/images/en-us_image_0000001251736595.png

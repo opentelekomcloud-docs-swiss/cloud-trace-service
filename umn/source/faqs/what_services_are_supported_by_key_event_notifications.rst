@@ -5,4 +5,4 @@
 What Services Are Supported by Key Event Notifications?
 =======================================================
 
-CTS sends notifications of all key operations on services including ECS, EVS, VPC, DEW, native OpenStack, and IAM. These operations include creation, deletion, login, and native OpenStack API calls.
+CTS sends notifications of all key operations on services including ECS, EVS, VPC, DEW, native OpenStack, and IAM. These operations include creation, deletion, modify, login, and native OpenStack API calls.

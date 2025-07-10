@@ -5,4 +5,4 @@
 How Can I Store Trace Files for a Long Time?
 ============================================
 
-CTS only retains traces for seven days. To store traces for a long time, configure your tracker to transfer traces to OBS buckets. For details, see :ref:`Configuring a Tracker <cts_03_0002>`.
+CTS only retains traces for seven days. To store traces for a long time, configure your tracker to transfer traces to OBS buckets. For details, see :ref:`Configuring a Tracker <en-us_topic_0071185672>`.
