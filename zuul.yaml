@@ -6,8 +6,8 @@
       - helpcenter-swiss-base-jobs
     vars:
       sphinx_pdf_files:
-        - cts-umn.pdf
         - cts-api-ref.pdf
+        - cts-umn.pdf
     check:
       jobs:
         - noop
